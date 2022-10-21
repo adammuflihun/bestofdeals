@@ -109,6 +109,7 @@
       "blocks": {
         "collection-0": {
           "type": "collection",
+          "disabled": true,
           "settings": {
             "collection": ""
           }
@@ -116,8 +117,8 @@
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
-            "second_image": false
+            "product": "portable-blender-electric-fruit-juicer-usb-rechargeable",
+            "second_image": true
           }
         },
         "collection-1": {
