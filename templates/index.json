@@ -161,10 +161,10 @@
       "type": "featured-collection",
       "settings": {
         "title": "",
-        "heading_size": "h1",
+        "heading_size": "h0",
         "description": "",
         "show_description": false,
-        "description_style": "body",
+        "description_style": "subtitle",
         "collection": "kitchen",
         "products_to_show": 2,
         "columns_desktop": 2,
