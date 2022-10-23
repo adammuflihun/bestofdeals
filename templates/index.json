@@ -1,5 +1,54 @@
 {
   "sections": {
+    "8cc07504-3178-469c-a61d-dd637ba593a8": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16600807899365__8cc07504-3178-469c-a61d-dd637ba593a8-1666519138e6f59f19-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--16600807899365__8cc07504-3178-469c-a61d-dd637ba593a8-1666519138e6f59f19-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--16600807899365__8cc07504-3178-469c-a61d-dd637ba593a8-1666519138e6f59f19-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16600807899365__8cc07504-3178-469c-a61d-dd637ba593a8-1666519138e6f59f19-0",
+        "template--16600807899365__8cc07504-3178-469c-a61d-dd637ba593a8-1666519138e6f59f19-1",
+        "template--16600807899365__8cc07504-3178-469c-a61d-dd637ba593a8-1666519138e6f59f19-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/banner_1.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {
@@ -139,6 +188,7 @@
     }
   },
   "order": [
+    "8cc07504-3178-469c-a61d-dd637ba593a8",
     "rich_text",
     "featured_collection",
     "80ccda26-f00c-4aac-af58-87d0e92364f2",
