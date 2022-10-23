@@ -2,9 +2,11 @@
   "sections": {
     "8cc07504-3178-469c-a61d-dd637ba593a8": {
       "type": "image-banner",
+      "disabled": true,
       "blocks": {
         "template--16600807899365__8cc07504-3178-469c-a61d-dd637ba593a8-1666519138e6f59f19-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "",
             "heading_size": "h1"
@@ -12,6 +14,7 @@
         },
         "template--16600807899365__8cc07504-3178-469c-a61d-dd637ba593a8-1666519138e6f59f19-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "",
             "text_style": "body"
@@ -41,7 +44,7 @@
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
-        "show_text_box": false,
+        "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
